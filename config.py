@@ -18,10 +18,5 @@ PICOVOICE_TOKEN = os.getenv('PICOVOICE_TOKEN')
 # Токен OpenAI
 OPENAI_TOKEN = os.getenv('OPENAI_TOKEN')
 
-# nums = map(int, input().split())
-# freq = [0] * (max(nums)+1)
-# for n in nums:
-#     freq[n] += n
-#
-#
+
 
